@@ -1,3 +1,12 @@
+# sql-fingerprint
+这是一个 sql 指纹提取器，只提供输出 sql 指纹功能
+## 编译
+```
+git clone git@github.com:anjingjingan/sql-fingerprint.git
+cd sql-fingerprint
+go mod download
+go build .
+```
 本项目引用了 https://github.com/percona/go-mysql 包
 
 实际上，本项目只是对 https://github.com/percona/go-mysql 包的 sql 指纹功能,进行打包成可执行文件
@@ -19,7 +28,15 @@ select * from table where id=?
 ````
 
 ### English
-
+#sql-fingerprint
+This is a sql fingerprint extractor that only provides output sql fingerprint function
+## compile
+```
+git clone git@github.com:anjingjingan/sql-fingerprint.git
+cd sql-fingerprint
+go mod download
+go build .
+```
 This project references the https://github.com/percona/go-mysql package
 
 In fact, this project is just packaging the sql fingerprint function of the https://github.com/percona/go-mysql package into an executable file
