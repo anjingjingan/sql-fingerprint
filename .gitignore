@@ -1,0 +1,6 @@
+*.log
+.env
+tmp
+.idea
+sql-fingerprint
+sql-fingerprint.exe

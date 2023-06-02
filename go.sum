@@ -1,0 +1,7 @@
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/percona/go-mysql v0.0.0-20210427141028-73d29c6da78c h1:1SZ7nS+kSaO63IpaKspf/gf8602QcgP2eXNPMNOIc0M=
+github.com/percona/go-mysql v0.0.0-20210427141028-73d29c6da78c/go.mod h1:/SGLf9OMxlnK6jq4mkFiImBcJXXk5jwD+lDrwDaGXcw=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
+github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
